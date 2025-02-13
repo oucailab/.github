@@ -1,10 +1,11 @@
-## Hi 这里是 中国海洋大学人工智能研究院！
+## Hi 这里是 中国海洋大学人工智能研究院 的数据和代码开源仓库！
 
 ![20250213095802](https://gaopursuit.oss-cn-beijing.aliyuncs.com/img/2025/20250213095802.jpg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ 中国海洋大学人工智能研究院于2019年成立，重点针对人工智能领的重要科学及技术难题，面向海洋大数据分析的应用需求，依托高性能计算平台以及海洋和水下实验基地，开展跨学科人工智能理论与技术研究。
+
+🌈 研究院主页：https://www.ai-ouc.cn
+
+👩‍💻 地址：山东省青岛市黄岛区三沙路1299号
+
+🍿 欢迎随时联系我们！联系方式：gaofeng@ouc.edu.cn
