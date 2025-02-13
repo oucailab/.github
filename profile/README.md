@@ -1,4 +1,4 @@
-## Hi 这里是 中国海洋大学人工智能研究院 的数据和代码开源仓库！
+## Hi 这里是 [中国海洋大学人工智能研究院](https://www.ai-ouc.cn) 的数据和代码开源仓库！
 
 ![20250213095802](https://gaopursuit.oss-cn-beijing.aliyuncs.com/img/2025/20250213095802.jpg)
 
